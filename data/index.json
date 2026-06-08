@@ -1,0 +1,9 @@
+{
+  "mode": "master_files",
+  "files": [
+    "COMEX.xlsx",
+    "POSTVENTA.xlsx",
+    "LOGISTICA.xlsx"
+  ],
+  "version": "V4"
+}
